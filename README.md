@@ -1,9 +1,14 @@
-## Tugas Sekolah Membuat Aplikasi Buku Tamu Sederhana Saat Kelas 11
+## Tugas Sekolah Membuat Aplikasi Buku Tamu Sederhana Saat Kelas 11 dan Kelas 10
 
-## Fitur Aplikasi :
+Buku Tamu adalah aplikasi berfungsi untuk mendata sebuah tamu di sebuah acara, saat masih sekolah sering banget di kasih tugas yang mengulang beberapa kali hal yang sama, yaitu membuat buku tamu secara ulang dll.
 
-- Menampilkan Data Tamu
-- Menambahkan Data Tamu
+## Tugas Buku Tamu Yang Pernah disuruh buat yang tidak di hapus ada 3x :
+
+- apps buku tamu = v1
+- apps buku tamu = v2
+- apps buku tamu = v3
+
+Notes : V1 Melambangkan sebagai urutan tugas yang di berikan saat membuat aplikasi buku tamu dan bukan update fitur buku tamu ketiga aplikasi di atas tidak saling berhubungan
 
 ## Alat Yang Digunakan Untuk Membuat Web :
 
